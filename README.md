@@ -1,7 +1,7 @@
 <div align = "center" style = "text-algin: center;">
     <h1>HELLO, I'm JJJ562004, You can call me James.</h1>
-    <h2>I can't say i'm an expert programmer myself yet, but I have a big interest in learning new things about programming, especially AI field.</h2>
-    <h2>I often play video games, read stories, and more important, I love following Youtube videos to build projects I like and learn new things from them.</h2>
+    <h2>I can't say I'm an expert programmer myself yet, but I have a big interest in learning new things about programming, especially AI field.</h2>
+    <h2>I often play video games, read stories, and more importantly, I love following Youtube videos to build projects I like and learn new things from them.</h2>
 
 <div style = "text-align:center;>
     <a href="https://github.com/anuraghazra/github-readme-stats">
